@@ -65,7 +65,7 @@
 | https://www.sololearn.com/learn/courses/le-html                     | 02/2023 - 06/2023 |
 | https://www.sololearn.com/learn/courses/c-plus-plus-introduction\   | 03/2023 - 07/2023 |
 | https://stepik.org/course/С++-Первый-год-121244/                    | 08/2023 - xx/2024 |
-| https://stepik.org/course/PHP-первое-знакомство-87314/              | 01/2024 - xx/2024 |
+| https://stepik.org/course/PHP-первое-знакомство-87314/              | 02/2024 - 02/2024 |
 | https://www.sololearn.com/learn/courses/web-development             | 01/2024 - xx/2024 |
 
 
